@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cs101-hw1",
+    "courseId": "cs101",
+    "title": "HW1: Algorithms Warmup",
+    "description": "Implement basic algorithms and analyze complexity.",
+    "dueAt": "2025-09-22T23:59:00.000-04:00",
+  "points": 100,
+  "estimatedMinutes": 240,
+  "weight": 5,
+    "url": "https://example.edu/cs101/hw1",
+    "tags": ["algorithms", "complexity"],
+    "assignedAt": "2025-09-15T09:00:00.000-04:00"
+  },
+  {
+    "id": "math221-ps1",
+    "courseId": "math221",
+    "title": "Problem Set 1: Logic & Proofs",
+    "description": "Propositional logic, predicates, proof techniques.",
+    "dueAt": "2025-09-19T17:00:00.000-04:00",
+  "points": 50,
+  "estimatedMinutes": 120,
+  "weight": 3,
+    "url": "https://example.edu/math221/ps1",
+    "tags": ["logic", "proofs"],
+    "assignedAt": "2025-09-12T12:00:00.000-04:00"
+  },
+  {
+    "id": "cs101-proj1",
+    "courseId": "cs101",
+    "title": "Project 1: Tic-Tac-Toe AI",
+    "description": "Build a minimax-based AI with optional alpha-beta pruning.",
+    "dueAt": "2025-10-01T23:59:00.000-04:00",
+  "points": 150,
+  "estimatedMinutes": 900,
+  "weight": 15,
+    "url": "https://example.edu/cs101/project1",
+    "tags": ["project", "ai", "minimax"],
+    "assignedAt": "2025-09-18T09:00:00.000-04:00"
+  }
+]

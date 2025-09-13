@@ -1,0 +1,198 @@
+[
+  {
+    "id": "study-cs101-1",
+    "title": "Study: HW1 Problems 1-3",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-18T19:00:00.000-04:00",
+    "end": "2025-09-18T20:30:00.000-04:00",
+    "location": "Library 2F",
+    "notes": "Focus on time complexity proofs."
+  },
+  {
+    "id": "study-math221-ps1",
+    "title": "Study: Proof Techniques",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-17T09:00:00.000-04:00",
+    "end": "2025-09-17T10:30:00.000-04:00",
+    "location": "Cafe near MATH",
+    "notes": "Work through induction examples."
+  },
+  {
+    "id": "study-today-math221",
+    "title": "Study: PS1 Logic Drills",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-13T10:00:00.000-04:00",
+    "end": "2025-09-13T11:30:00.000-04:00",
+    "location": "Library 2F",
+    "notes": "Truth tables & implications."
+  },
+  {
+    "id": "study-today-cs101",
+    "title": "Study: HW1 Problem 2",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-13T14:00:00.000-04:00",
+    "end": "2025-09-13T16:00:00.000-04:00",
+    "location": "Dorm Lounge",
+    "notes": "Prove runtime bounds."
+  },
+  {
+    "id": "study-overlap-today",
+    "title": "Study: HW1 Problem 3",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-13T15:00:00.000-04:00",
+    "end": "2025-09-13T15:45:00.000-04:00",
+    "location": "Dorm Lounge",
+    "notes": "Edge cases & tests."
+  },
+  {
+    "id": "study-week-cs101-evening",
+    "title": "Project 1 Spike",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-11T19:30:00.000-04:00",
+    "end": "2025-09-11T21:00:00.000-04:00",
+    "location": "CS Lab",
+    "notes": "Minimax skeleton."
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T18:30:00.000Z",
+    "end": "2025-09-18T19:00:00.000Z",
+    "id": "c22fa680-9dca-4d3f-9bca-3bc214ff6cd3"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T19:00:00.000Z",
+    "end": "2025-09-18T19:30:00.000Z",
+    "id": "27a77737-b8bc-4583-9917-8a1790e72e3b"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T19:30:00.000Z",
+    "end": "2025-09-18T20:00:00.000Z",
+    "id": "6ac1c960-508a-46b0-9a8b-06a23f6f99ae"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T20:00:00.000Z",
+    "end": "2025-09-18T20:30:00.000Z",
+    "id": "f54c014c-4142-4e30-acc4-50a5f4b84408"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T20:30:00.000Z",
+    "end": "2025-09-18T21:00:00.000Z",
+    "id": "e5c39d00-b01c-4d87-a8bc-5c968becc538"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-20T17:00:00.000Z",
+    "end": "2025-09-20T17:30:00.000Z",
+    "id": "7927f663-cadc-4a34-8430-864ebb46f350"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-20T17:30:00.000Z",
+    "end": "2025-09-20T18:00:00.000Z",
+    "id": "c7cffa8d-3de1-4ff3-811a-e17fa8f51deb"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T17:00:00.000Z",
+    "end": "2025-09-21T17:30:00.000Z",
+    "id": "6d552334-20cf-4eac-9ec1-ea2d1f8091b1"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T17:30:00.000Z",
+    "end": "2025-09-21T18:00:00.000Z",
+    "id": "9cadb6e7-619a-4a28-8b0a-518bbee45728"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T18:00:00.000Z",
+    "end": "2025-09-21T18:30:00.000Z",
+    "id": "2c794ca6-fb0a-46cd-a3da-48aff182e303"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T18:30:00.000Z",
+    "end": "2025-09-21T19:00:00.000Z",
+    "id": "0d98b414-717c-4485-9ff3-5fd6009fa800"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T19:00:00.000Z",
+    "end": "2025-09-21T19:30:00.000Z",
+    "id": "49f557d0-88a9-4c73-b075-66c86da18e96"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T19:30:00.000Z",
+    "end": "2025-09-21T20:00:00.000Z",
+    "id": "7825ac07-9783-4f73-b9af-e7068d39f56e"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T20:00:00.000Z",
+    "end": "2025-09-21T20:30:00.000Z",
+    "id": "c621daaf-3c91-4932-86ed-caa9e9917205"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T20:30:00.000Z",
+    "end": "2025-09-21T21:00:00.000Z",
+    "id": "0c34ad5e-9225-4f01-84e3-1efe24159c69"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-26T19:30:00.000Z",
+    "end": "2025-09-26T20:00:00.000Z",
+    "id": "d995381d-bd20-45bf-b601-d2f0ba1cdfe9"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-26T20:00:00.000Z",
+    "end": "2025-09-26T20:30:00.000Z",
+    "id": "0c3d6bfc-147a-4b06-82b3-847ab8190be2"
+  }
+]

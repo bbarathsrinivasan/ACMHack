@@ -1,0 +1,626 @@
+[
+  {
+    "id": "study-cs101-1",
+    "title": "Study: HW1 Problems 1-3",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-18T19:00:00.000-04:00",
+    "end": "2025-09-18T20:30:00.000-04:00",
+    "location": "Library 2F",
+    "notes": "Focus on time complexity proofs."
+  },
+  {
+    "id": "study-math221-ps1",
+    "title": "Study: Proof Techniques",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-17T09:00:00.000-04:00",
+    "end": "2025-09-17T10:30:00.000-04:00",
+    "location": "Cafe near MATH",
+    "notes": "Work through induction examples."
+  },
+  {
+    "id": "study-today-math221",
+    "title": "Study: PS1 Logic Drills",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-13T10:00:00.000-04:00",
+    "end": "2025-09-13T11:30:00.000-04:00",
+    "location": "Library 2F",
+    "notes": "Truth tables & implications."
+  },
+  {
+    "id": "study-today-cs101",
+    "title": "Study: HW1 Problem 2",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-13T14:00:00.000-04:00",
+    "end": "2025-09-13T16:00:00.000-04:00",
+    "location": "Dorm Lounge",
+    "notes": "Prove runtime bounds."
+  },
+  {
+    "id": "study-overlap-today",
+    "title": "Study: HW1 Problem 3",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-13T15:00:00.000-04:00",
+    "end": "2025-09-13T15:45:00.000-04:00",
+    "location": "Dorm Lounge",
+    "notes": "Edge cases & tests."
+  },
+  {
+    "id": "study-week-cs101-evening",
+    "title": "Project 1 Spike",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-11T19:30:00.000-04:00",
+    "end": "2025-09-11T21:00:00.000-04:00",
+    "location": "CS Lab",
+    "notes": "Minimax skeleton."
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T18:30:00.000Z",
+    "end": "2025-09-18T19:00:00.000Z",
+    "id": "c22fa680-9dca-4d3f-9bca-3bc214ff6cd3"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T19:00:00.000Z",
+    "end": "2025-09-18T19:30:00.000Z",
+    "id": "27a77737-b8bc-4583-9917-8a1790e72e3b"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T19:30:00.000Z",
+    "end": "2025-09-18T20:00:00.000Z",
+    "id": "6ac1c960-508a-46b0-9a8b-06a23f6f99ae"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T20:00:00.000Z",
+    "end": "2025-09-18T20:30:00.000Z",
+    "id": "f54c014c-4142-4e30-acc4-50a5f4b84408"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T20:30:00.000Z",
+    "end": "2025-09-18T21:00:00.000Z",
+    "id": "e5c39d00-b01c-4d87-a8bc-5c968becc538"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-20T17:00:00.000Z",
+    "end": "2025-09-20T17:30:00.000Z",
+    "id": "7927f663-cadc-4a34-8430-864ebb46f350"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-20T17:30:00.000Z",
+    "end": "2025-09-20T18:00:00.000Z",
+    "id": "c7cffa8d-3de1-4ff3-811a-e17fa8f51deb"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T17:00:00.000Z",
+    "end": "2025-09-21T17:30:00.000Z",
+    "id": "6d552334-20cf-4eac-9ec1-ea2d1f8091b1"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T17:30:00.000Z",
+    "end": "2025-09-21T18:00:00.000Z",
+    "id": "9cadb6e7-619a-4a28-8b0a-518bbee45728"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T18:00:00.000Z",
+    "end": "2025-09-21T18:30:00.000Z",
+    "id": "2c794ca6-fb0a-46cd-a3da-48aff182e303"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T18:30:00.000Z",
+    "end": "2025-09-21T19:00:00.000Z",
+    "id": "0d98b414-717c-4485-9ff3-5fd6009fa800"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T19:00:00.000Z",
+    "end": "2025-09-21T19:30:00.000Z",
+    "id": "49f557d0-88a9-4c73-b075-66c86da18e96"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T19:30:00.000Z",
+    "end": "2025-09-21T20:00:00.000Z",
+    "id": "7825ac07-9783-4f73-b9af-e7068d39f56e"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T20:00:00.000Z",
+    "end": "2025-09-21T20:30:00.000Z",
+    "id": "c621daaf-3c91-4932-86ed-caa9e9917205"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T20:30:00.000Z",
+    "end": "2025-09-21T21:00:00.000Z",
+    "id": "0c34ad5e-9225-4f01-84e3-1efe24159c69"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-26T19:30:00.000Z",
+    "end": "2025-09-26T20:00:00.000Z",
+    "id": "d995381d-bd20-45bf-b601-d2f0ba1cdfe9"
+  },
+  {
+    "title": "Test",
+    "start": "2025-09-12T19:00:00.000Z",
+    "end": "2025-09-12T21:00:00.000Z",
+    "id": "25709b0e-cb64-40c0-b76e-300276f37dac"
+  },
+  {
+    "title": "Test",
+    "start": "2025-09-11T19:00:00.000Z",
+    "end": "2025-09-11T21:00:00.000Z",
+    "id": "f025c09b-52f6-4353-b188-c80e3da006ec"
+  },
+  {
+    "title": "Test",
+    "start": "2025-09-11T06:00:00.000Z",
+    "end": "2025-09-11T08:00:00.000Z",
+    "id": "5cc84404-f464-445d-ae45-2b9eb65f6d5f"
+  },
+  {
+    "title": "Study Block",
+    "start": "2025-09-29T14:00:00.000Z",
+    "end": "2025-09-29T15:00:00.000Z",
+    "id": "1c7ae994-68e2-46f7-bcc8-ce66631ad500"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T18:30:00.000Z",
+    "end": "2025-09-18T19:00:00.000Z",
+    "id": "c11b78b4-94cc-4c47-bd29-7527366be469"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T19:00:00.000Z",
+    "end": "2025-09-18T19:30:00.000Z",
+    "id": "27312251-1d1d-48a7-bca0-bcb75dc41653"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T19:30:00.000Z",
+    "end": "2025-09-18T20:00:00.000Z",
+    "id": "85ced191-0cff-4987-9c0c-4b38cc85f3e2"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T20:00:00.000Z",
+    "end": "2025-09-18T20:30:00.000Z",
+    "id": "c95fd10c-6511-4ce7-a54b-73452fe2bffa"
+  },
+  {
+    "title": "Study: Problem Set 1: Logic & Proofs",
+    "courseId": "math221",
+    "relatedAssignmentId": "math221-ps1",
+    "start": "2025-09-18T20:30:00.000Z",
+    "end": "2025-09-18T21:00:00.000Z",
+    "id": "54cab301-151d-4360-b0ff-edea0434cb30"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-20T17:00:00.000Z",
+    "end": "2025-09-20T17:30:00.000Z",
+    "id": "1bfd4d8a-4fe8-443d-ab84-2a2d2fd95ac2"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-20T17:30:00.000Z",
+    "end": "2025-09-20T18:00:00.000Z",
+    "id": "4ace61bf-99c1-4310-a9e2-b1e39839dc7d"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T17:00:00.000Z",
+    "end": "2025-09-21T17:30:00.000Z",
+    "id": "b8714417-1aa5-4306-8bac-bf1685a5be85"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T17:30:00.000Z",
+    "end": "2025-09-21T18:00:00.000Z",
+    "id": "52f40191-abec-4edf-8ecc-6e36ad7c7cc4"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T18:00:00.000Z",
+    "end": "2025-09-21T18:30:00.000Z",
+    "id": "fca3a9f0-5313-4789-824a-6d22a880cd9d"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T18:30:00.000Z",
+    "end": "2025-09-21T19:00:00.000Z",
+    "id": "86b77f17-0f06-4208-afb7-8523367acd3d"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T19:00:00.000Z",
+    "end": "2025-09-21T19:30:00.000Z",
+    "id": "60d1021e-5a4f-4a14-ba58-4f40300b9060"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T19:30:00.000Z",
+    "end": "2025-09-21T20:00:00.000Z",
+    "id": "ec78a9fe-87b5-46e9-a38b-23d86c982b06"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T20:00:00.000Z",
+    "end": "2025-09-21T20:30:00.000Z",
+    "id": "5174b9c7-5c8f-42d3-9b55-76748f3899dc"
+  },
+  {
+    "title": "Study: HW1: Algorithms Warmup",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-hw1",
+    "start": "2025-09-21T20:30:00.000Z",
+    "end": "2025-09-21T21:00:00.000Z",
+    "id": "8e49aa04-b10d-4b2d-8686-c8f5a991a8a3"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-26T19:30:00.000Z",
+    "end": "2025-09-26T20:00:00.000Z",
+    "id": "4ecec195-ffbf-4519-983d-5410c9d68906"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-26T20:00:00.000Z",
+    "end": "2025-09-26T20:30:00.000Z",
+    "id": "8f6947a3-40a3-4db8-b1cd-ed1a4a73cc0e"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-26T20:30:00.000Z",
+    "end": "2025-09-26T21:00:00.000Z",
+    "id": "4f8767f2-8c89-4134-a3e9-9fc23310bdb5"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-27T14:00:00.000Z",
+    "end": "2025-09-27T14:30:00.000Z",
+    "id": "f89a8df1-db2f-4c7a-baa6-b82cea955385"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-27T14:30:00.000Z",
+    "end": "2025-09-27T15:00:00.000Z",
+    "id": "92504552-b56f-4a2e-a05b-e968f93159bd"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-27T15:00:00.000Z",
+    "end": "2025-09-27T15:30:00.000Z",
+    "id": "1c420c54-89d6-4d71-92c9-061fed36d55a"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-27T15:30:00.000Z",
+    "end": "2025-09-27T16:00:00.000Z",
+    "id": "ad44e466-255f-4118-80c1-41ac2c24f804"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-27T16:00:00.000Z",
+    "end": "2025-09-27T16:30:00.000Z",
+    "id": "ff6fe5a2-f562-495a-90ae-37227935e1fb"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-27T16:30:00.000Z",
+    "end": "2025-09-27T17:00:00.000Z",
+    "id": "405946f5-667b-4dfe-81a9-7418947fbc78"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-27T17:00:00.000Z",
+    "end": "2025-09-27T17:30:00.000Z",
+    "id": "1edcd86d-3620-4984-be17-514d271ea47e"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-27T17:30:00.000Z",
+    "end": "2025-09-27T18:00:00.000Z",
+    "id": "1f91565d-fdfb-4b10-8996-e8eb427544a3"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-28T17:00:00.000Z",
+    "end": "2025-09-28T17:30:00.000Z",
+    "id": "0def4826-1418-49bc-8a91-0efdadc5b3d4"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-28T17:30:00.000Z",
+    "end": "2025-09-28T18:00:00.000Z",
+    "id": "c851d121-4cb7-4d33-b015-0dfca40434a1"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-28T18:00:00.000Z",
+    "end": "2025-09-28T18:30:00.000Z",
+    "id": "92196090-1592-4795-9c2e-dc833f98c3e2"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-28T18:30:00.000Z",
+    "end": "2025-09-28T19:00:00.000Z",
+    "id": "3c92f4f9-d5a9-43f5-a256-1872b435d6bc"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-28T19:00:00.000Z",
+    "end": "2025-09-28T19:30:00.000Z",
+    "id": "caaa10a0-17ff-49ff-8f60-60807b06a97e"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-28T19:30:00.000Z",
+    "end": "2025-09-28T20:00:00.000Z",
+    "id": "7bf0dfc3-0e8c-46cb-a376-f3d20a579e3b"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-28T20:00:00.000Z",
+    "end": "2025-09-28T20:30:00.000Z",
+    "id": "a19157e3-cd68-4e85-99ab-3341c7808296"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-28T20:30:00.000Z",
+    "end": "2025-09-28T21:00:00.000Z",
+    "id": "d83f3c6a-4d9b-4ff6-9b09-21460dd6f256"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-29T18:00:00.000Z",
+    "end": "2025-09-29T18:30:00.000Z",
+    "id": "5467fcc4-3bff-4bbb-a516-a6cd4f563c85"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-29T18:30:00.000Z",
+    "end": "2025-09-29T19:00:00.000Z",
+    "id": "ca0b853d-f0cc-4e96-9a42-164e12215999"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-29T19:00:00.000Z",
+    "end": "2025-09-29T19:30:00.000Z",
+    "id": "1519fd13-b070-41e2-a517-fe87766cc647"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-29T19:30:00.000Z",
+    "end": "2025-09-29T20:00:00.000Z",
+    "id": "71e1c301-7485-4415-ab7f-0a40fc65f0ee"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-29T20:00:00.000Z",
+    "end": "2025-09-29T20:30:00.000Z",
+    "id": "3c83ee2e-6f04-4b19-bb45-753c1156878b"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-29T20:30:00.000Z",
+    "end": "2025-09-29T21:00:00.000Z",
+    "id": "2713090a-aab0-4077-9b69-569f91367a94"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-29T21:00:00.000Z",
+    "end": "2025-09-29T21:30:00.000Z",
+    "id": "a33230e7-5068-4987-8d03-2e6ce028723d"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-29T21:30:00.000Z",
+    "end": "2025-09-29T22:00:00.000Z",
+    "id": "38053073-3f04-4eec-aaab-56bf7794988e"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-30T18:00:00.000Z",
+    "end": "2025-09-30T18:30:00.000Z",
+    "id": "580c26f6-beec-4988-b42c-dc2787a94770"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-30T18:30:00.000Z",
+    "end": "2025-09-30T19:00:00.000Z",
+    "id": "3b1799e2-ed33-46fe-881f-efae8af9f70f"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-30T19:00:00.000Z",
+    "end": "2025-09-30T19:30:00.000Z",
+    "id": "a06f2181-b185-4d5b-aade-ee7575c64bbe"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-30T19:30:00.000Z",
+    "end": "2025-09-30T20:00:00.000Z",
+    "id": "cf574d7a-f2ef-479e-8fc5-5b95884d4883"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-30T20:00:00.000Z",
+    "end": "2025-09-30T20:30:00.000Z",
+    "id": "93b2398a-3766-4c6c-9f5d-225bef670a2a"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-30T20:30:00.000Z",
+    "end": "2025-09-30T21:00:00.000Z",
+    "id": "17df9dc0-333b-45fb-a086-58625ec0a75f"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-30T21:00:00.000Z",
+    "end": "2025-09-30T21:30:00.000Z",
+    "id": "73333ea4-0f1c-42ba-a88f-b59e3160d52f"
+  },
+  {
+    "title": "Study: Project 1: Tic-Tac-Toe AI",
+    "courseId": "cs101",
+    "relatedAssignmentId": "cs101-proj1",
+    "start": "2025-09-30T21:30:00.000Z",
+    "end": "2025-09-30T22:00:00.000Z",
+    "id": "b0f1a925-59b3-4b26-bb04-cece92c848b1"
+  },
+  {
+    "title": "test",
+    "start": "2025-09-29T14:00:00.000Z",
+    "end": "2025-09-29T15:00:00.000Z",
+    "id": "5469dc0f-86c0-41e0-9bb4-fc39f2d410c7"
+  },
+  {
+    "title": "test",
+    "start": "2025-09-29T16:00:00.000Z",
+    "end": "2025-09-29T18:00:00.000Z",
+    "id": "77c5c019-eb8f-4e66-9edb-7ef1b553e76a"
+  }
+]

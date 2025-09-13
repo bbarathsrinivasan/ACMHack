@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cs101-proj1-proposal",
+    "assignmentId": "cs101-proj1",
+    "title": "Project 1 Proposal",
+    "dueAt": "2025-09-22T17:00:00.000-04:00",
+    "description": "Submit a one-page plan outlining approach and milestones."
+  },
+  {
+    "id": "cs101-proj1-demo",
+    "assignmentId": "cs101-proj1",
+    "title": "Project 1 Demo",
+    "dueAt": "2025-10-02T15:00:00.000-04:00",
+    "description": "In-lab demo of your AI playing strategy."
+  }
+]
