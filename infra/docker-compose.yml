@@ -1,0 +1,71 @@
+version: '3.9'
+services:
+  # Core API backend
+  backend:
+    build:
+      context: ..
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    env_file:
+      - ../.env
+    volumes:
+      - ../backend:/app
+    depends_on:
+      - mcp-calendar
+      - mcp-gmail
+      - mcp-slack
+      - mcp-files
+      - mcp-vector
+      - mcp-policy
+    restart: unless-stopped
+
+  # MCP Servers
+  mcp-calendar:
+    # Use image if provided; otherwise build from local server folder
+    build:
+      context: ../mcp-servers/calendar
+    env_file:
+      - ../.env
+    restart: unless-stopped
+
+  mcp-gmail:
+    build:
+      context: ../mcp-servers/gmail
+    env_file:
+      - ../.env
+    restart: unless-stopped
+
+  mcp-slack:
+    build:
+      context: ../mcp-servers/slack
+    env_file:
+      - ../.env
+    restart: unless-stopped
+
+  mcp-files:
+    build:
+      context: ../mcp-servers/files
+    env_file:
+      - ../.env
+    volumes:
+      - ../web/data:/data
+    restart: unless-stopped
+
+  mcp-vector:
+    build:
+      context: ../mcp-servers/vector
+    env_file:
+      - ../.env
+    volumes:
+      - ../web/data:/data
+    restart: unless-stopped
+
+  mcp-policy:
+    build:
+      context: ../mcp-servers/policy
+    env_file:
+      - ../.env
+    restart: unless-stopped

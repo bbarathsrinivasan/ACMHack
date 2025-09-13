@@ -1,3 +1,4 @@
+from typing import Tuple
 from prometheus_client import Counter, Histogram, CollectorRegistry, generate_latest, CONTENT_TYPE_LATEST
 
 # Dedicated registry so we can control exposure explicitly
@@ -19,6 +20,6 @@ REQUEST_LATENCY = Histogram(
 )
 
 
-def export_prometheus() -> tuple[bytes, str]:
+def export_prometheus() -> Tuple[bytes, str]:
     """Return Prometheus metrics payload and content-type."""
     return generate_latest(registry), CONTENT_TYPE_LATEST
