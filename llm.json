@@ -1,0 +1,188 @@
+{"Mon, 25-Aug": [
+    {
+        "hw_id": "HW1",
+        "title": {
+            "text": "Introduction to LLMs: Basics and History",
+            "url": ""
+        },
+        "event_type": "Lecture",
+        "text": "Lecture 1: Introduction to Large Language Models",
+        "status": "Out"
+    }
+],
+"Wed, 27-Aug": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Lecture",
+        "text": "Lecture 2: Transformer Architecture Overview",
+        "status": ""
+    }
+],
+"Fri, 29-Aug": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Recitation",
+        "text": "Recitation: HW1 Discussion",
+        "status": ""
+    }
+],
+"Mon, 1-Sep": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Other",
+        "text": "(Labor Day - No Class)",
+        "status": ""
+    }
+],
+"Wed, 3-Sep": [
+    {
+        "hw_id": "HW1",
+        "title": {
+            "text": "Tokenization and Embeddings",
+            "url": ""
+        },
+        "event_type": "Lecture",
+        "text": "Lecture 3: Tokenization & Embeddings",
+        "status": "Due"
+    },
+    {
+        "hw_id": "HW2",
+        "title": {
+            "text": "Attention Mechanism and Self-Attention",
+            "url": ""
+        },
+        "event_type": "Lecture",
+        "text": "Lecture 3: Attention Mechanism",
+        "status": "Out"
+    }
+],
+"Fri, 5-Sep": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Recitation",
+        "text": "Recitation: HW2 Discussion",
+        "status": ""
+    }
+],
+"Mon, 8-Sep": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Lecture",
+        "text": "Lecture 4: GPT Architecture and Training",
+        "status": ""
+    }
+],
+"Wed, 10-Sep": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Lecture",
+        "text": "Lecture 5: Transformer Variants and Scaling Laws",
+        "status": ""
+    }
+],
+"Fri, 12-Sep": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Lecture",
+        "text": "Lecture 6: Fine-Tuning and Prompting",
+        "status": ""
+    }
+],
+"Mon, 15-Sep": [
+    {
+        "hw_id": "HW2",
+        "title": {
+            "text": "Prompt Engineering Basics",
+            "url": ""
+        },
+        "event_type": "Lecture",
+        "text": "Lecture 7: Prompt Engineering",
+        "status": "Due"
+    },
+    {
+        "hw_id": "HW3",
+        "title": {
+            "text": "Training LLMs on Custom Data",
+            "url": ""
+        },
+        "event_type": "Lecture",
+        "text": "Lecture 7: Training LLMs",
+        "status": "Out"
+    }
+],
+"Wed, 17-Sep": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Lecture",
+        "text": "Lecture 8: Evaluation Metrics for LLMs",
+        "status": ""
+    }
+],
+"Fri, 19-Sep": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Recitation",
+        "text": "Recitation: HW3 Discussion",
+        "status": ""
+    }
+],
+"Mon, 22-Sep": [
+    {
+        "hw_id": "HW3",
+        "title": {
+            "text": "LLM Bias and Ethical Considerations",
+            "url": ""
+        },
+        "event_type": "Lecture",
+        "text": "Lecture 9: Ethics in LLMs",
+        "status": "Due"
+    }
+],
+"Wed, 24-Sep": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Lecture",
+        "text": "Lecture 10: Instruction Tuning and RLHF",
+        "status": ""
+    }
+],
+"Fri, 26-Sep": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Exam",
+        "text": "Midterm Review / Office Hours",
+        "status": ""
+    }
+],
+"Mon, 29-Sep": [
+    {
+        "hw_id": null,
+        "title": {},
+        "event_type": "Lecture",
+        "text": "Lecture 11: Open-Source LLMs Overview",
+        "status": ""
+    },
+    {
+        "hw_id": "HW4",
+        "title": {
+            "text": "LLM Project Proposal",
+            "url": ""
+        },
+        "event_type": "Lecture",
+        "text": "Lecture 11: Project Discussion",
+        "status": "Out"
+    }
+]
+}
+
