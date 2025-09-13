@@ -1,0 +1,579 @@
+{
+    "Mon, 25-Aug": [
+        {
+            "hw_id": "HW1",
+            "title": {
+                "text": "Background Material (written / programming) [Handout] [Overleaf Link]",
+                "url": "https://www.cs.cmu.edu/~mgormley/courses/10601/homework/hw1.zip"
+            },
+            "event_type": "Lecture",
+            "text": "Lecture 1 : Course Overview",
+            "status": "Out"
+        }
+    ],
+    "Wed, 27-Aug": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 2 : Machine Learning as Function Approximation",
+            "status": ""
+        }
+    ],
+    "Fri, 29-Aug": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Recitation",
+            "text": "Recitation: HW1",
+            "status": ""
+        }
+    ],
+    "Mon, 1-Sep": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Other",
+            "text": "(Labor Day - No Class)",
+            "status": ""
+        }
+    ],
+    "Wed, 3-Sep": [
+        {
+            "hw_id": "HW1",
+            "title": {
+                "text": "Background Material (written / programming) [Handout] [Overleaf Link]",
+                "url": "https://www.cs.cmu.edu/~mgormley/courses/10601/homework/hw1.zip"
+            },
+            "event_type": "Lecture",
+            "text": "Lecture 3 : Decision Trees",
+            "status": "Due"
+        },
+        {
+            "hw_id": "HW2",
+            "title": {
+                "text": "Decision Trees (written / programming) [Handout] [Overleaf Link]",
+                "url": "https://www.cs.cmu.edu/~mgormley/courses/10601/homework/hw2.zip"
+            },
+            "event_type": "Lecture",
+            "text": "Lecture 3 : Decision Trees",
+            "status": "Out"
+        }
+    ],
+    "Fri, 5-Sep": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Recitation",
+            "text": "Recitation: HW2",
+            "status": ""
+        }
+    ],
+    "Mon, 8-Sep": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 4 : k-Nearest Neighbors",
+            "status": ""
+        }
+    ],
+    "Wed, 10-Sep": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 5 : Model Selection and Experimental Design",
+            "status": ""
+        }
+    ],
+    "Fri, 12-Sep": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 6 : Perceptron",
+            "status": ""
+        }
+    ],
+    "Mon, 15-Sep": [
+        {
+            "hw_id": "HW2",
+            "title": {
+                "text": "Decision Trees (written / programming) [Handout] [Overleaf Link]",
+                "url": "https://www.cs.cmu.edu/~mgormley/courses/10601/homework/hw2.zip"
+            },
+            "event_type": "Lecture",
+            "text": "Lecture 7 : Linear Regression",
+            "status": "Due"
+        },
+        {
+            "hw_id": "HW3",
+            "title": {
+                "text": "KNN, Perceptron, and Linear Regression (written)",
+                "url": ""
+            },
+            "event_type": "Lecture",
+            "text": "Lecture 7 : Linear Regression",
+            "status": "Out"
+        }
+    ],
+    "Wed, 17-Sep": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 8 : Optimization for ML",
+            "status": ""
+        }
+    ],
+    "Fri, 19-Sep": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Recitation",
+            "text": "Quiz 1 + Recitation: HW3",
+            "status": ""
+        }
+    ],
+    "Mon, 22-Sep": [
+        {
+            "hw_id": "HW3",
+            "title": {
+                "text": "KNN, Perceptron, and Linear Regression (written)",
+                "url": ""
+            },
+            "event_type": "Lecture",
+            "text": "Lecture 9 : Stochastic Gradient Descent / Logistic Regression",
+            "status": "Due"
+        }
+    ],
+    "Wed, 24-Sep": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 10 : Feature Engineering / Regularization",
+            "status": ""
+        }
+    ],
+    "Fri, 26-Sep": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Exam",
+            "text": "Exam 1 Review OH",
+            "status": ""
+        }
+    ],
+    "Mon, 29-Sep": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 11 : Neural Networks",
+            "status": ""
+        },
+        {
+            "hw_id": "HW4",
+            "title": {
+                "text": "Logistic Regression (written / programming)",
+                "url": ""
+            },
+            "event_type": "Exam",
+            "text": "Exam 1 (evening exam, details will be announced on Piazza)",
+            "status": "Out"
+        }
+    ],
+    "Wed, 1-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 12 : Backpropagation I",
+            "status": ""
+        }
+    ],
+    "Fri, 3-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Recitation",
+            "text": "Recitation: HW4",
+            "status": ""
+        }
+    ],
+    "Mon, 6-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 13 : Backpropagation II",
+            "status": ""
+        }
+    ],
+    "Wed, 8-Oct": [
+        {
+            "hw_id": "HW4",
+            "title": {
+                "text": "Logistic Regression (written / programming)",
+                "url": ""
+            },
+            "event_type": "Lecture",
+            "text": "Lecture 14 : Societal Impacts of ML",
+            "status": "Due"
+        },
+        {
+            "hw_id": "HW5",
+            "title": {
+                "text": "Neural Networks (written / programming)",
+                "url": ""
+            },
+            "event_type": "Lecture",
+            "text": "Lecture 14 : Societal Impacts of ML",
+            "status": "Out"
+        }
+    ],
+    "Fri, 10-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Recitation",
+            "text": "Recitation: HW5",
+            "status": ""
+        }
+    ],
+    "Mon, 13-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Other",
+            "text": "Fall break",
+            "status": ""
+        }
+    ],
+    "Tue, 14-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Other",
+            "text": "",
+            "status": ""
+        }
+    ],
+    "Wed, 15-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Other",
+            "text": "Fall break",
+            "status": ""
+        }
+    ],
+    "Thu, 16-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Other",
+            "text": "",
+            "status": ""
+        }
+    ],
+    "Fri, 17-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Other",
+            "text": "Fall break",
+            "status": ""
+        }
+    ],
+    "Mon, 20-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 15 : PAC learning",
+            "status": ""
+        }
+    ],
+    "Wed, 22-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 16 : PAC Learning / MLE & MAP",
+            "status": ""
+        }
+    ],
+    "Fri, 24-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Recitation",
+            "text": "Recitation: HW6",
+            "status": ""
+        }
+    ],
+    "Sun, 26-Oct": [
+        {
+            "hw_id": "HW5",
+            "title": {
+                "text": "Neural Networks (written / programming)",
+                "url": ""
+            },
+            "event_type": "Other",
+            "text": "",
+            "status": "Due"
+        },
+        {
+            "hw_id": "HW6",
+            "title": {
+                "text": "PAC Learning and Ethics (written)",
+                "url": ""
+            },
+            "event_type": "Other",
+            "text": "",
+            "status": "Out"
+        }
+    ],
+    "Mon, 27-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 17 : MLE & MAP / CNNs and RNNs",
+            "status": ""
+        }
+    ],
+    "Wed, 29-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 18 : RNN-LMs and Transformers-LMs",
+            "status": ""
+        }
+    ],
+    "Fri, 31-Oct": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Exam",
+            "text": "Quiz 2 + Exam 2 Review OH",
+            "status": ""
+        }
+    ],
+    "Sat, 1-Nov": [
+        {
+            "hw_id": "HW6",
+            "title": {
+                "text": "PAC Learning and Ethics (written)",
+                "url": ""
+            },
+            "event_type": "Other",
+            "text": "",
+            "status": "Due"
+        }
+    ],
+    "Mon, 3-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 19 : AutoDiff, Pre-training, Fine-Tuning, In-context Learning",
+            "status": ""
+        }
+    ],
+    "Wed, 5-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 20 : Reinforcement Learning: MDPs",
+            "status": ""
+        }
+    ],
+    "Thu, 6-Nov": [
+        {
+            "hw_id": "HW7",
+            "title": {
+                "text": "Deep Learning (written / programming)",
+                "url": ""
+            },
+            "event_type": "Exam",
+            "text": "Exam 2 (evening exam, details will be announced on Piazza)",
+            "status": "Out"
+        }
+    ],
+    "Fri, 7-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Recitation",
+            "text": "Recitation: HW7",
+            "status": ""
+        }
+    ],
+    "Mon, 10-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 21 : Reinforcement Learning: Value/Policy Iteration",
+            "status": ""
+        }
+    ],
+    "Wed, 12-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 22 : Reinforcement Learning: Q-Learning / Deep RL",
+            "status": ""
+        }
+    ],
+    "Fri, 14-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Recitation",
+            "text": "Recitation: HW8",
+            "status": ""
+        }
+    ],
+    "Sun, 16-Nov": [
+        {
+            "hw_id": "HW7",
+            "title": {
+                "text": "Deep Learning (written / programming)",
+                "url": ""
+            },
+            "event_type": "Other",
+            "text": "",
+            "status": "Due"
+        },
+        {
+            "hw_id": "HW8",
+            "title": {
+                "text": "Reinforcement Learning (written / programming)",
+                "url": ""
+            },
+            "event_type": "Other",
+            "text": "",
+            "status": "Out"
+        }
+    ],
+    "Mon, 17-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 23 : Recommender Systems / Ensemble Methods: Boosting",
+            "status": ""
+        }
+    ],
+    "Wed, 19-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 24 : Ensemble Methods: Bagging -- swap with recsys?",
+            "status": ""
+        }
+    ],
+    "Fri, 21-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Recitation",
+            "text": "Recitation: HW9",
+            "status": ""
+        }
+    ],
+    "Mon, 24-Nov": [
+        {
+            "hw_id": "HW8",
+            "title": {
+                "text": "Reinforcement Learning (written / programming)",
+                "url": ""
+            },
+            "event_type": "Lecture",
+            "text": "Lecture 25 : K-Means / Dimensionality Reduction: PCA",
+            "status": "Due"
+        },
+        {
+            "hw_id": "HW9",
+            "title": {
+                "text": "Learning Paradigms (written)",
+                "url": ""
+            },
+            "event_type": "Lecture",
+            "text": "Lecture 25 : K-Means / Dimensionality Reduction: PCA",
+            "status": "Out"
+        }
+    ],
+    "Wed, 26-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Other",
+            "text": "Thanksgiving Break - No Class",
+            "status": ""
+        }
+    ],
+    "Thu, 27-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Other",
+            "text": "Thanksgiving Break - No Class",
+            "status": ""
+        }
+    ],
+    "Fri, 28-Nov": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Other",
+            "text": "Thanksgiving Break - No Class",
+            "status": ""
+        }
+    ],
+    "Mon, 1-Dec": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 26 : Special Topics: Generative Models for Vision / Significance Testing for ML",
+            "status": ""
+        }
+    ],
+    "Wed, 3-Dec": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Lecture",
+            "text": "Lecture 27 : Special Topics: Bayesian Methods for Machine Learning",
+            "status": ""
+        }
+    ],
+    "Fri, 5-Dec": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Exam",
+            "text": "Quiz 3 + Exam 3 Review OH",
+            "status": ""
+        }
+    ],
+    "Dec-8 to Dec-15": [
+        {
+            "hw_id": null,
+            "title": {},
+            "event_type": "Exam",
+            "text": "Exam 3 (during Final Exam Period -- exact time/date TBD by the registrar, details will be announced on Piazza)",
+            "status": ""
+        }
+    ]
+}
